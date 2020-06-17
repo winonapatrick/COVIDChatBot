@@ -16,10 +16,7 @@ public class Resources{
         System.out.println();
         System.out.println("Please enter your choice:");
         
-        
         int choice = scan.nextInt();
-        
-        
      
         switch (choice) {
             case 1: System.out.println("General options:"); 
